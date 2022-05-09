@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Vitor Martini. </h1>
 ⚡ I'm a student of Computer Science at UNIFESP(https://www.unifesp.br/).
 
-🌱 I used to work on a ERP system, but currently I'm focused on learning new technologies.
+🌱 Focused on learning new technologies!
 
 <hr><br/>
 
