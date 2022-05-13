@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Vitor Martini. </h1>
-⚡ I'm a student of Computer Science at UNIFESP(https://www.unifesp.br/).
+⚡ I'm a student of Computer Science at UNIFESP (https://www.unifesp.br/).
 
 🌱 Focused on learning new technologies!
 
