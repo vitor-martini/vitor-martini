@@ -24,7 +24,6 @@ I began my coding journey in 2015 during my IT technical course and have been pa
 <br/>
 <div>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-martini&layout=compact&hide=html,shell&title_color=bd93f9&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="santospatrick" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-martini&show_icons=true&title_color=bd93f9&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="santospatrick" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-martini&layout=compact&hide=html,shell&title_color=bd93f9&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="vitormartini" />
 </p>
 </div>
