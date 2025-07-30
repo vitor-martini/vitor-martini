@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vitor</h1>
 
-<p align="center">
+<p align="justify">
 I'm a Fullstack Developer specialized in .NET, with experience in C#, ASP.NET Core, RESTful APIs, Windows Forms, and VB.NET. I also work with Angular, React, NoSQL, and SQL. Although my main expertise is in .NET, I'm naturally curious and constantly seeking to learn new technologies and broaden my skill set.
 </p>
 
-<p align="center">
+<p align="justify">
 I started with a technical course in IT, where I was introduced to .NET, and later earned a degree in Computer Science — all while working as a software developer. I've contributed to projects ranging from legacy system maintenance to building new solutions, with a strong focus on integration, performance, and delivering real business value.
 </p>
 
@@ -58,16 +58,16 @@ I started with a technical course in IT, where I was introduced to .NET, and lat
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:vitor-martini@outlook.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" width="40" height="40"/>
+  <a href="mailto:vitor-martini@outlook.com" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-right:10px;">
+    <img src="https://img.icons8.com/color/48/000000/apple-mail.png" alt="Email" width="40" height="40" style="vertical-align:middle;"/>
   </a>
-
-  <a href="https://linkedin.com/in/vitor-martini" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>  
+  <a href="https://linkedin.com/in/vitor-martini" target="_blank" style="display:inline-block; vertical-align:middle;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; height:40px;"/>
+  </a>
 </p>
 
 <br/>
+
 <div>
   <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-martini&layout=compact&hide=html,shell&title_color=bd93f9&text_color=ffffff&icon_color=50fa7b&bg_color=282a36&hide_border=true" alt="Top Languages"/>
